@@ -2,7 +2,7 @@
 
 ## Cocktails
 
-### Blockchain
+### Blockchain on the rocks
 
 #### Preparation
 
